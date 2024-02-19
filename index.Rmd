@@ -1,5 +1,5 @@
 ---
-title: "git_aprendizado"
+title: "git_aprendizado..."
 author: "José Ailton"
 date: "`r Sys.Date()`"
 output: html_document
@@ -28,3 +28,8 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+## Links importantes
+
+[Introdução a utilização do Git e Github no RStudio](https://www.youtube.com/watch?v=uQL6NOSd9cc)
