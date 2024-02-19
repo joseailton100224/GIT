@@ -6,28 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of GIT is to …
+Estou aprendendo a utilizar o Git e o GitHub.
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
-
-``` r
-summary(cars)
-#>      speed           dist       
-#>  Min.   : 4.0   Min.   :  2.00  
-#>  1st Qu.:12.0   1st Qu.: 26.00  
-#>  Median :15.0   Median : 36.00  
-#>  Mean   :15.4   Mean   : 42.98  
-#>  3rd Qu.:19.0   3rd Qu.: 56.00  
-#>  Max.   :25.0   Max.   :120.00
-```
-
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date.
-
-You can also embed plots, for example:
-
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub.
+Neste exemplo estou gerando o Readme da página do GitHub utilizando o R
+e RStudio, com um arquivo .Rmd,nesse caso, não se esqueça de fazer
+commit e push dos arquivos de figuras resultantes, para que eles sejam
+exibidos no GitHub. GitHub.
